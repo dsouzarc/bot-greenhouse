@@ -1,8 +1,8 @@
-##Greenhouse
+## Greenhouse
 
-###Created by Ryan D'souza and Christiane Martin
+### Created by Ryan D'souza and Christiane Martin
 
-####Purpose
+#### Purpose
 Whenever one misses the interview, it might cause interviewees to have a bad interview experience and be less likely to refer the company to their friends. 
 This bot aims to fix that issue by reminding interviewers that they have an interview 30 minutes before their interview begins.
 
@@ -11,7 +11,7 @@ Because the bot interacts with the Greenhouse API and not Google Calendar, this 
 In the future, this bot can be expanded to continuously remind Symphonians that they have an upcoming interview until they respond with some form of acknowledgement
 
 
-####Run Instructions
+#### Run Instructions
 
 - Download this ZIP 
 
